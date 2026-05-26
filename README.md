@@ -1,3 +1,4 @@
+#This project is currently under refinement. The data model and visuals are functional, but presentation polish is ongoing.
 
 # UEFA Champions League (2015-2025) Analytics Dashboard
 End-to-end BI project: from raw API data to interactive Power BI dashboards.
